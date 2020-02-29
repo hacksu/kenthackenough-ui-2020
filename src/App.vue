@@ -312,7 +312,8 @@ export default {
 
   #banner {
     /*position: fixed;*/
-    background-color: #39183e;
+    /*background-color: #39183e;*/
+    background-color: rgba(65,23,67,1);
     display: flex;
     justify-content: space-between;
     z-index: 98;
@@ -322,7 +323,7 @@ export default {
     padding: 15px;
     margin: 0px;
     font-size: 18px;
-    color: #fff;
+    color: white;
     cursor: pointer;
     -webkit-transition-duration: 0.2s;
     transition-duration: 0.2s;
